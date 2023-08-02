@@ -1,0 +1,118 @@
+name: forall_driver
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.1 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  animated_bottom_navigation_bar:
+  cached_network_image:
+  connectivity_plus:
+  dartz:
+  dio:
+  fl_chart:
+  flutter_svg: null
+  percent_indicator:
+  flutter_bloc:
+  get:
+  url_launcher:
+  get_it:
+  get_storage:
+  google_maps_flutter:
+  image_picker: 0.8.8
+  flutter_speed_dial:
+  intl:
+  location:
+  pinput: ^2.2.31
+  webview_flutter:
+  file_picker:
+  country_code_picker:
+  multi_select_flutter:
+  multiselect_formfield:
+  flutter_credit_card:
+  photo_view: ^0.14.0
+  flutter_emoji:
+  socket_io_client: ^2.0.0
+  shimmer:
+  google_mobile_ads:
+  geolocator:
+  linkwell: ^2.0.6
+  flutter_sound: ^9.2.13
+  permission_handler: ^10.2.0
+  syncfusion_flutter_datepicker: ^20.4.43
+  hijri_picker:
+  flutter_local_notifications: '12.0.4'
+  firebase_core: ^2.1.1
+  firebase_messaging:
+  audioplayers:
+  qr_flutter: ^4.0.0
+  qr_code_scanner: ^1.0.1
+  syncfusion_flutter_charts: ^20.4.43
+  share_plus:
+  audio_session: ^0.1.13
+  lit_relative_date_time: ^1.2.0
+  azlistview: 2.0.0
+  flutter_slidable:
+  cached_network_svg_image: ^0.0.5
+  simple_barcode_scanner:
+  image_cropper:
+
+
+
+
+
+
+
+dependency_overrides:
+  modal_bottom_sheet: ^3.0.0-pre
+
+dev_dependencies:
+  build_runner:
+  flutter_lints:
+  freezed:
+  freezed_annotation:
+  json_annotation:
+  json_serializable:
+  flutter_native_splash: #  flutter pub run flutter_native_splash:create
+  flutter_launcher_icons: #  flutter pub run flutter_launcher_icons:main
+  change_app_package_name: #  flutter pub run change_app_package_name:main com.new.package.name
+
+flutter_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: "assets/launcher/White.jpg"
+
+flutter_native_splash:
+  background_image: "assets/launcher/icon.jpeg"
+  fullscreen: true
+  android: true
+  ios: true
+  web: true
+
+flutter:
+  uses-material-design: true
+
+  generate: true
+
+  assets:
+    - assets/images/
+    - assets/launcher/
+    - assets/fonts/
+    - assets/
+
+  fonts:
+    - family: Zaptron
+      fonts:
+        - asset: assets/fonts/Zaptron-Regular.otf
+    - family: font
+      fonts:
+        - asset: assets/fonts/font.ttf

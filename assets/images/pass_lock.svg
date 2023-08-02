@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="186.724" height="162.461" viewBox="0 0 186.724 162.461">
+  <g id="Group_374" data-name="Group 374" transform="translate(-117.293 -168.18)">
+    <g id="Group_373" data-name="Group 373" transform="translate(0 -27)">
+      <circle id="Ellipse_44" data-name="Ellipse 44" cx="65.321" cy="65.321" r="65.321" transform="translate(149 227)" fill="#45c0be"/>
+      <path id="Icon_map-locksmith" data-name="Icon map-locksmith" d="M43.35,21.553H41.1V12.562C41.1,6.647,35.167.72,29.252.72H19.376C13.465.72,7.767,6.647,7.767,12.562v8.992H5.277A2.234,2.234,0,0,0,3.6,23.283V49.8c0,.623.972.919,1.677.919H43.35c.707,0,1.917-.3,1.917-.919V23.283a2.546,2.546,0,0,0-1.917-1.729Zm-14.007,25H19.29L21.4,36.171A5.386,5.386,0,0,1,19.29,31.9a5.1,5.1,0,0,1,5.026-5.1,4.96,4.96,0,0,1,5.027,4.927A5.792,5.792,0,0,1,27.235,36.2Zm4.466-25H15.058V12.562a4.259,4.259,0,0,1,4.418-4.55h9.676a4.45,4.45,0,0,1,4.656,4.55Z" transform="translate(189.4 266.28)" fill="#fff"/>
+    </g>
+    <circle id="Ellipse_44-2" data-name="Ellipse 44" cx="6.333" cy="6.333" r="6.333" transform="translate(149.075 168.18)" fill="#8bd8d7"/>
+    <circle id="Ellipse_44-3" data-name="Ellipse 44" cx="3.861" cy="3.861" r="3.861" transform="translate(296.295 247.875)" fill="#8bd8d7"/>
+    <circle id="Ellipse_44-4" data-name="Ellipse 44" cx="3.861" cy="3.861" r="3.861" transform="translate(117.293 268.469)" fill="#8bd8d7"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "ar": [
+    "please_enter_position",
+    "tags"
+  ]
+}

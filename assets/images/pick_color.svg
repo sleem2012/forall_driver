@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <g id="Group_187" data-name="Group 187" transform="translate(-38 -595)">
+    <g id="Ellipse_34" data-name="Ellipse 34" transform="translate(38 595)" fill="#fff" stroke="#45c0be" stroke-width="1" stroke-dasharray="8">
+      <circle cx="22.5" cy="22.5" r="22.5" stroke="none"/>
+      <circle cx="22.5" cy="22.5" r="22" fill="none"/>
+    </g>
+    <g id="Group_186" data-name="Group 186" transform="translate(0 3)">
+      <text id="_" data-name="+" transform="translate(56 617)" fill="#45c0be" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">+</tspan></text>
+      <text id="Add_Colors" data-name="Add Colors" transform="translate(47 626)" fill="#45c0be" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Add Colors</tspan></text>
+    </g>
+  </g>
+</svg>

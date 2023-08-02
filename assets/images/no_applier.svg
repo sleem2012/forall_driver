@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="195" height="220" viewBox="0 0 195 220">
+  <g id="Group_930" data-name="Group 930" transform="translate(-94 -346)">
+    <g id="Group_927" data-name="Group 927" transform="translate(94 346)">
+      <rect id="Rectangle_136" data-name="Rectangle 136" width="113.393" height="64.329" transform="translate(0 6.214)" fill="#f2f2f2"/>
+      <path id="Path_485" data-name="Path 485" d="M349.282,287.324H235.314V222.742H349.282Zm-113.208-.76H348.522V223.5H236.074Z" transform="translate(-227.285 -222.742)" fill="#3f3d56"/>
+      <path id="Path_487" data-name="Path 487" d="M490.548,803.5H345.809a.38.38,0,0,1,0-.76H490.548a.38.38,0,0,1,0,.76Z" transform="translate(-295.928 -583.502)" fill="#ccc"/>
+      <path id="Path_488" data-name="Path 488" d="M584.935,547.045a4.7,4.7,0,0,1,5.742-4.363l6.22-8.765,6.248,2.481-8.957,12.255a4.729,4.729,0,0,1-9.253-1.607Z" transform="translate(-444.734 -416.316)" fill="#a0616a"/>
+      <path id="Path_489" data-name="Path 489" d="M602.906,471.951l11.058-18.6-4.505-12.014,6.136-16.363.226.1c.148.064,3.635,1.619,4.152,7.191l7.052,22.162L608.2,478.84Z" transform="translate(-455.825 -348.631)" fill="#3f3d56"/>
+      <path id="Path_490" data-name="Path 490" d="M436.083,368.584a4.7,4.7,0,0,1,3.906,6.062l8.258,6.879-2.956,6.038-11.526-9.878a4.729,4.729,0,0,1,2.317-9.1Z" transform="translate(-349.026 -313.409)" fill="#a0616a"/>
+      <path id="Path_491" data-name="Path 491" d="M451.328,388.091l17.688,12.463,12.327-3.563,15.84,7.383-.114.218c-.075.143-1.9,3.5-7.491,3.583l-22.641,5.317L444.05,392.842Z" transform="translate(-357.291 -325.588)" fill="#3f3d56"/>
+      <path id="Path_492" data-name="Path 492" d="M318.276,601.581h-6.149L309.2,577.863h9.076Z" transform="translate(-191.921 -388.306)" fill="#a0616a"/>
+      <path id="Path_493" data-name="Path 493" d="M291.341,635.672h13.67v7.467H285.686v-1.811A5.655,5.655,0,0,1,291.341,635.672Z" transform="translate(-177.326 -424.154)" fill="#2f2e41"/>
+      <path id="Path_494" data-name="Path 494" d="M382.972,601.581h-6.149L373.9,577.863h9.075Z" transform="translate(-232.077 -388.306)" fill="#a0616a"/>
+      <path id="Path_495" data-name="Path 495" d="M356.035,635.672h13.67v7.467H350.38v-1.811a5.655,5.655,0,0,1,5.655-5.655Z" transform="translate(-217.482 -424.154)" fill="#2f2e41"/>
+      <path id="Path_496" data-name="Path 496" d="M342.955,412.407l-.5,35.11-.5,46.144-11.035-1-5.517-63.7-7.022,63.7H306.986l-1.147-64.2,4.012-14.044Z" transform="translate(-189.836 -285.706)" fill="#2f2e41"/>
+      <path id="Path_497" data-name="Path 497" d="M526.076,455.341l-1.681-.073,7.808-43.014-3.2-13a2.845,2.845,0,0,1,1.763-3.343l5.752-2.157,2.032-5.589,16.034,1.728.394,4.368c1.737.557,16.045,5.322,15.058,10.752-.974,5.359-6.728,22.219-7.02,23.074l-1.007,24.18-.124.062c-.149.075-11.2,5.509-23.207,5.508A30.525,30.525,0,0,1,526.076,455.341Z" transform="translate(-407.162 -325.762)" fill="#3f3d56"/>
+      <circle id="Ellipse_28" data-name="Ellipse 28" cx="11.544" cy="11.544" r="11.544" transform="translate(123.104 53.023) rotate(-61.337)" fill="#a0616a"/>
+      <path id="Path_498" data-name="Path 498" d="M569.934,336.913a3.809,3.809,0,0,1-6.573-2.116,3.867,3.867,0,0,1,0-.747c.148-1.418.967-2.706.771-4.2a2.2,2.2,0,0,0-.4-1.032c-1.753-2.348-5.869,1.05-7.523-1.075-1.015-1.3.178-3.355-.6-4.811-1.028-1.922-4.071-.974-5.98-2.027-2.124-1.171-2-4.43-.6-6.411a10.086,10.086,0,0,1,7.646-3.893,20.51,20.51,0,0,1,8.639,1.686c3.131,1.22,6.236,2.907,8.163,5.66,2.343,3.348,2.569,7.85,1.4,11.765C574.163,332.09,571.73,335,569.934,336.913Z" transform="translate(-421.816 -277.346)" fill="#2f2e41"/>
+    </g>
+    <text id="_0_Appliers" data-name="0 Appliers" transform="translate(120 384.308)" fill="#45bebc" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">0 Appliers</tspan></text>
+    <text id="_" data-name="??" transform="translate(241.61 372.987) rotate(17)" fill="#45bebc" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">??</tspan></text>
+  </g>
+</svg>
